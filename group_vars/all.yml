@@ -1,0 +1,10 @@
+ipaserver_domain: idm.internal
+ipaserver_realm: IDM.INTERNAL
+
+ipaserver_admin_password: "SecureAdminPass!"
+ipaserver_dir_manager_password: "SecureDMPass1!"
+
+ipaserver_ip: 10.1.23.192
+
+nfs_export_dir: /home
+nfs_server_ip: 10.1.23.192
